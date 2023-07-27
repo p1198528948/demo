@@ -1,0 +1,8 @@
+{
+	"/Account/GetAllAccount":"/posts",
+	"/Account/GetAccount?username=fyh":"/posts?id=1",
+	"/Account/GetAccount?username=zx":"/posts?id=2",
+	"/Account/GetAccount?username=XiaoMing":"/posts?id=3",
+	"/Account/GetAccount?username=XiaoHong":"/posts?id=4",
+	"/Account/AddAccount":"/posts"
+}
